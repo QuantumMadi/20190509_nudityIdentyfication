@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepAi.Service", "DeepAi.Service\DeepAi.Service.csproj", "{4FD2DA87-289B-4727-B8D9-0C69C5266AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD2DA87-289B-4727-B8D9-0C69C5266AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD2DA87-289B-4727-B8D9-0C69C5266AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD2DA87-289B-4727-B8D9-0C69C5266AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD2DA87-289B-4727-B8D9-0C69C5266AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F18509E-6436-4D55-9197-2D7E0559FF67}
+	EndGlobalSection
+EndGlobal
