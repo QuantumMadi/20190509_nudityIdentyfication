@@ -17,6 +17,9 @@ namespace DeepAi.Service
             {
                 image = File.OpenRead(@"C:\Users\www\Desktop\1\sasha2.jpg"),
             });
+
+            //  File.WriteAllText("file.txt", api.objectAsJsonString(resp));
+                
             Console.WriteLine(api.objectAsJsonString(resp));
             Console.ReadLine();
         }
